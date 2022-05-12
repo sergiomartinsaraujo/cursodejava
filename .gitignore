@@ -1,2 +1,10 @@
 
 datas_no_java/bin/Datas/Aula90Locale.class
+enumeracao_composicao/.settings/org.eclipse.jdt.core.prefs
+enumeracao_composicao/.project
+enumeracao_composicao/bin/apicationWorker/ProgramWorker.class
+enumeracao_composicao/.classpath
+enumeracao_composicao/bin/entities/enums/WorkerLevel.class
+enumeracao_composicao/bin/entitiesWorker/Department.class
+enumeracao_composicao/bin/entitiesWorker/HourContract.class
+enumeracao_composicao/bin/entitiesWorker/Worker.class
