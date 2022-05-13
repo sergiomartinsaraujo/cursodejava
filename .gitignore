@@ -8,3 +8,12 @@ enumeracao_composicao/bin/entities/enums/WorkerLevel.class
 enumeracao_composicao/bin/entitiesWorker/Department.class
 enumeracao_composicao/bin/entitiesWorker/HourContract.class
 enumeracao_composicao/bin/entitiesWorker/Worker.class
+exer_fixacao_enumeracao_composicao/.classpath
+exer_fixacao_enumeracao_composicao/.project
+exer_fixacao_enumeracao_composicao/.settings/org.eclipse.jdt.core.prefs
+exer_fixacao_enumeracao_composicao/bin/appOrder/OrderProgram.class
+exer_fixacao_enumeracao_composicao/bin/entitiesEnums/OrderStatus.class
+exer_fixacao_enumeracao_composicao/bin/entitiesOrder/Client.class
+exer_fixacao_enumeracao_composicao/bin/entitiesOrder/Order.class
+exer_fixacao_enumeracao_composicao/bin/entitiesOrder/OrderItem.class
+exer_fixacao_enumeracao_composicao/bin/entitiesOrder/Product.class
