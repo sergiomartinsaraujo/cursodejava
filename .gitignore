@@ -17,3 +17,10 @@ exer_fixacao_enumeracao_composicao/bin/entitiesOrder/Client.class
 exer_fixacao_enumeracao_composicao/bin/entitiesOrder/Order.class
 exer_fixacao_enumeracao_composicao/bin/entitiesOrder/OrderItem.class
 exer_fixacao_enumeracao_composicao/bin/entitiesOrder/Product.class
+exercicio_ehp_fixacao/.classpath
+exercicio_ehp_fixacao/.project
+exercicio_ehp_fixacao/.settings/org.eclipse.jdt.core.prefs
+exercicio_ehp_fixacao/bin/applicationExerEHP/ProgramEhp.class
+exercicio_ehp_fixacao/bin/entitiesExerEHP/Company.class
+exercicio_ehp_fixacao/bin/entitiesExerEHP/Individual.class
+exercicio_ehp_fixacao/bin/entitiesExerEHP/TaxPayer.class
