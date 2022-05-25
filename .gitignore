@@ -32,3 +32,12 @@ trabalhando-com-arquivos/bin/applicationArquivos/ProgramStream.class
 trabalhando-com-arquivos/bin/applicationArquivos/ProgramTryWithResources.class
 trabalhando-com-arquivos/bin/applicationArquivos/ProgramWriter.class
 trabalhando-com-arquivos/bin/applicationArquivos/ManipulandoPastas.class
+interface_fixacao/.classpath
+interface_fixacao/.project
+interface_fixacao/.settings/org.eclipse.jdt.core.prefs
+interface_fixacao/bin/applicationServices/ProgramServices.class
+interface_fixacao/bin/entitiesFixacao/Contract.class
+interface_fixacao/bin/entitiesFixacao/Installment.class
+interface_fixacao/bin/services/ContractService.class
+interface_fixacao/bin/services/OnlinePaymentService.class
+interface_fixacao/bin/services/PayPalService.class
