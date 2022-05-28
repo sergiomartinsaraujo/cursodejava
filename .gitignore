@@ -54,3 +54,11 @@ interface_default/.settings/org.eclipse.jdt.core.prefs
 interface_default/bin/services/BrazilInterestService.class
 interface_default/bin/services/InterestService.class
 interface_default/bin/services/UsaInterestService.class
+generics/.classpath
+generics/.project
+generics/.settings/org.eclipse.jdt.core.prefs
+generics/bin/applicationGenerics/Program.class
+generics/bin/entitiesGenerics/PrintServiceGenerics.class
+generics/bin/entitiesGenerics/PrintServiceInteger.class
+generics/bin/entitiesGenerics/PrintServiceObject.class
+generics/bin/entitiesGenerics/PrintServiceString.class
